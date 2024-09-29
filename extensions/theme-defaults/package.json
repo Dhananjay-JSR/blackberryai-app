@@ -14,10 +14,10 @@
   "contributes": {
     "themes": [
       {
-        "id": "Default blueberryAI Dark",
-        "label": "%blueberryAIDarkThemeLabel%",
+        "id": "Default blackberryAI Dark",
+        "label": "%blackberryAIDarkThemeLabel%",
         "uiTheme": "vs-dark",
-        "path": "./themes/blueberryai_dark.json"
+        "path": "./themes/blackberryai_dark.json"
       },
       {
         "id": "Default Dark+",
@@ -32,10 +32,10 @@
         "path": "./themes/dark_modern.json"
       },
       {
-        "id": "Default blueberryAI Light",
-        "label": "%blueberryAILightThemeLabel%",
+        "id": "Default blackberryAI Light",
+        "label": "%blackberryAILightThemeLabel%",
         "uiTheme": "vs",
-        "path": "./themes/blueberryai_light.json"
+        "path": "./themes/blackberryai_light.json"
       },
       {
         "id": "Default Light+",
